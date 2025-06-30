@@ -1,5 +1,5 @@
-# Caller Coach 
-Exploratory project seeking to build a tool that can help users stay accountable via a daily call with a coach, using Speech to Text, Text to Speech, and LLMs.
+# Phone Coach 
+Exploratory project seeking to build a tool that can help users stay accountable via a daily call with a phone coach, using Speech to Text, Text to Speech, and LLMs.
 
 **NOTE:** This project is not currently working, just exploratory at this point.
 
